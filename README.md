@@ -2,7 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/in/cameron-gillus-442234278)
 
-<img src=![Gillus_Cameron_9043428](https://github.com/CameronGillus/CameronGillus.github.io/assets/134443118/f1240b6c-1625-4602-9620-002741db4abf) width="500"
+<img src="![Gillus_Cameron_9043428](https://github.com/CameronGillus/CameronGillus.github.io/assets/134443118/f1240b6c-1625-4602-9620-002741db4abf)" width="500"
 
 
 ## About me
