@@ -2,6 +2,8 @@
 
 [Linkedin](https://www.linkedin.com/in/cameron-gillus-442234278)
 
+<![](Gillus_Cameron_9043428.jpg)>
+
 ## About me
 Hi My name is Cameron Gillus. I am currently an incoming freshman at Lehigh Univeristy. I am from Washingon D.C. and just graduated from Sidwell Friends School in Washingon D.C. I am currently commited to play on the Lehigh basketball team. I plan to major is buisness looking to pursue a job in sports managment in the future. 
 
