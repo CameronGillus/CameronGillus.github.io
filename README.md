@@ -1,5 +1,3 @@
-theme: minima
-
 # Cameron Gillus
 
 ## About me
