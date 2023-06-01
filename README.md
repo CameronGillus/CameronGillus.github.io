@@ -11,6 +11,6 @@ I spend most of my time watching and playing basketball. I enjoy going to the mo
 ![Gillus_Cameron_9043428](https://github.com/CameronGillus/CameronGillus.github.io/assets/134443118/f1240b6c-1625-4602-9620-002741db4abf)
 
 ### Line Chart
-Below is a graph describing the global life expantacy over the last 60 years.
+Below is a graph describing the global life expantacy and how it has changed over the last 60 years.
 
 <noscript><img src="https://datawrapper.dwcdn.net/6UVof/full.png" alt="" /></noscript></div>
