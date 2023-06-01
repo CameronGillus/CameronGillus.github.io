@@ -12,4 +12,5 @@ I spend most of my time watching and playing basketball. I enjoy going to the mo
 
 ### Line Chart
 Below is a graph describing the global life expantacy over the last 60 years.
+
 <noscript><img src="https://datawrapper.dwcdn.net/6UVof/full.png" alt="" /></noscript></div>
