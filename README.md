@@ -11,4 +11,4 @@ I spend most of my time watching and playing basketball. I enjoy going to the mo
 ![Gillus_Cameron_9043428](https://github.com/CameronGillus/CameronGillus.github.io/assets/134443118/f1240b6c-1625-4602-9620-002741db4abf)
 
 ### Line Chart
-https://datawrapper.dwcdn.net/6UVof/1/
+<div><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/6UVof/embed.js?v=1" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/6UVof/full.png" alt="" /></noscript></div>
