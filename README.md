@@ -10,6 +10,6 @@ I spend most of my time watching and playing basketball. I enjoy going to the mo
 [Linkedin](https://www.linkedin.com/in/cameron-gillus-442234278)
 ![Gillus_Cameron_9043428](https://github.com/CameronGillus/CameronGillus.github.io/assets/134443118/f1240b6c-1625-4602-9620-002741db4abf)
 
-#Line Chart
+### Line Chart
 <iframe title="Global Life Expectancy " aria-label="Interactive line chart" id="datawrapper-chart-6UVof" src="https://datawrapper.dwcdn.net/6UVof/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
