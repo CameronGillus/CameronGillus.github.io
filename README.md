@@ -11,6 +11,6 @@ I spend most of my time watching and playing basketball. I enjoy going to the mo
 ![Gillus_Cameron_9043428](https://github.com/CameronGillus/CameronGillus.github.io/assets/134443118/f1240b6c-1625-4602-9620-002741db4abf)
 
 ### Line Chart
-Below is a graph describing the global life expantacy and how it has changed over the last 60 years.
+Below is a graph describing the global life expantacy and how it has changed over the last 60 years. This graph shows and expalains how the life expectancy has steadliy grown over time. This is because medicine and technogly has improved, which has benifted the health of humans. However recently it has taken a small decline, most likely due to the pandemic which caused health prombelm for many Americans. 
 
 <noscript><img src="https://datawrapper.dwcdn.net/6UVof/full.png" alt="" /></noscript></div>
