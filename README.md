@@ -19,4 +19,5 @@ Below is a graph describing the global life expantacy and how it has changed ove
 ### Twitter Graph
 
 
-(https://lu.maps.arcgis.com/apps/mapviewer/index.html?layers=f8b92e026c1041ec9595be6315ee34c9)
+
+![alt text] (https://lu.maps.arcgis.com/apps/mapviewer/index.html?layers=f8b92e026c1041ec9595be6315ee34c9) 
