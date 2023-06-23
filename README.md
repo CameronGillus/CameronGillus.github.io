@@ -21,5 +21,5 @@ data.wa.gov (Washington Governemnt)
 
 This dataset shows the Battery Electric Vehicles and Plug-in Hybrid Electric Vehicles that are currently registered through Washington State Department of Licensing
 
-[![](https://public.tableau.com/static/images/El/ElectricVehicleData_16875395389150/Sheet1/1_rss.png)](#) 
+[![ ](https://public.tableau.com/static/images/El/ElectricVehicleData_16875395389150/Sheet1/1_rss.png)](#)
 [![ ](https://public.tableau.com/static/images/El/ElectricVehicleData_16875395389150/Sheet2/1_rss.png)](#)
