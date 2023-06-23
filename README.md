@@ -16,7 +16,7 @@ Below is a graph describing the global life expantacy and how it has changed ove
 ![alt text](https://camo.githubusercontent.com/eed39c99a8d9d38222f2769d2cd62ca605cbc73bd8f1d01a3755dbe7c4af8765/68747470733a2f2f64617461777261707065722e647763646e2e6e65742f3655566f662f66756c6c2e706e67)
 
 
-### Eletric Vehichle Data
+### Eletric Vehicle Data
 data.wa.gov (Washington Governemnt)
 
 This dataset shows the Battery Electric Vehicles and Plug-in Hybrid Electric Vehicles that are currently registered through Washington State Department of Licensing
