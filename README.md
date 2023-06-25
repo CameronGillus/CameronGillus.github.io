@@ -28,7 +28,7 @@ This dataset shows the Battery Electric Vehicles and Plug-in Hybrid Electric Veh
 ### States Regions Map
 Shared with me on google drive via Rob Weidman
 
-These are maps of the country as it shows the states grouped into categories by region and division
+These are maps of the country as it shows the states grouped into categories by region and division. Orginal Data can be access [here](https://docs.google.com/spreadsheets/d/1zaHsfHdnaNhtxYYW7rhOUh6Yoz5_xnNNbq6LQ3hd294/edit#gid=1239228416)
 
 [![US Census Regions ](https://public.tableau.com/static/images/NX/NXC4MH345/1_rss.png)](#)
 
