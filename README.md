@@ -31,7 +31,7 @@ Shared with me on google drive via Rob Weidman. Orginal Data can be access [here
 
 These are maps of the country as it shows the states grouped into categories by region and division.
 
-[![US Census Regions ](https://public.tableau.com/static/images/NX/NXC4MH345/1_rss.png)](#)
+[![US Census Regions ](https://public.tableau.com/static/images/8K/8K552748H/1_rss.png)](#) 
 
-[![US Census Regions ](https://public.tableau.com/static/images/KC/KCSTHWB4F/1_rss.png)](#)
+[![US Census Regions ](https://public.tableau.com/static/images/KT/KT4RK9YXR/1_rss.png)](#) 
 
